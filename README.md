@@ -54,7 +54,7 @@ This project demonstrates the practical application of Natural Language Processi
 --------------------------------------------------
 
 ## Project Structure
-
+```
 AI_Email_Generator/
 │
 ├── app.py                # Streamlit web application
@@ -62,7 +62,7 @@ AI_Email_Generator/
 ├── model_loader.py       # GPT-Neo model loading
 ├── requirements.txt      # Project dependencies
 └── README.md
-
+```
 --------------------------------------------------
 
 ## Installation
@@ -84,9 +84,9 @@ pip install -r requirements.txt
 ## Running the Application
 
 Run the Streamlit application using the following command:
-
+```
 streamlit run app.py
-
+```
 After running the command, the application will open in your browser where you can generate emails.
 
 --------------------------------------------------
