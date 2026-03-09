@@ -68,17 +68,17 @@ AI_Email_Generator/
 ## Installation
 
 1. Clone the repository
-
+```
 git clone https://github.com/your-username/ai-email-generator.git
-
+```
 2. Navigate to the project directory
-
+```
 cd ai-email-generator
-
+````
 3. Install required dependencies
-
+```
 pip install -r requirements.txt
-
+```
 --------------------------------------------------
 
 ## Running the Application
@@ -123,5 +123,5 @@ GitHub: https://github.com/your-username
 
 ## Internship
 
-This project was completed as part of an Artificial Intelligence internship program at SmartBridge.
+This project was completed as part of an Generative AI internship program at SmartBridge.
 """
