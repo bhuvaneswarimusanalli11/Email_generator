@@ -117,8 +117,6 @@ The system generates a professional email invitation automatically using GPT-Neo
 
 Bhuvaneswari Musanalli
 
-GitHub: https://github.com/your-username
-
 --------------------------------------------------
 
 ## Internship
